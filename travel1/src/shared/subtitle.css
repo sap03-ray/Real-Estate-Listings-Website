@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC:wght@100..400&display=swap');
+.section__subtitle{
+    background-color: #06C4C1;
+    font-family: "Playwrite AU VIC", cursive;
+    font-weight: 600;
+    font-size: x-large;
+}

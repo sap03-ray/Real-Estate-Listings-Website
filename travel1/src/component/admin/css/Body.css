@@ -1,0 +1,49 @@
+.top-header{
+    height: 50px;
+    background-color: #06C4C1;
+}
+.top-header{
+    margin-left: 0px;
+    padding-top: 15px;
+    padding-left: 10px;
+    color: #fff;
+}
+.top-header .top-nav{
+    color: #fff;
+    font-family: redo;
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 35px;
+}
+.body-title h1{
+    font-family: redo;
+    padding: 20px 20px 0px 0px;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+}
+.whole{
+    height: 700px;
+    overflow-y: scroll;
+}
+.card1{
+    height: 100px;
+    background-color:#06C4C1;
+    border-radius: 5px;
+    padding-top: 15px;
+    font-size: larger;
+    color: #fff;
+}
+.card1 .card1-left{
+    height: 100px;
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+.card1 .card1-left i{
+    font-size: 40px;
+    color: #fff;
+    opacity: 0.7;
+    display: block;
+    text-align: center;
+    padding-top: 30px;
+}
